@@ -1,7 +1,6 @@
 # 💫 About Me:
  CSE Student (6th Sem) | Backend & DSA Focus  
-Building strong fundamentals in Python, Django, and problem solving.  
-Aspiring AI Engineer.
+Building strong fundamentals in Python|| Django||and problem solving|| AI aspiring engineer.
 Reach me: sujitapatel787@gmail.com
 
 
