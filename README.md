@@ -1,7 +1,8 @@
 # 💫 About Me:
- 👋 Hi, I'm Sujita Patel<br><br>🎓 CSE Student (6th Sem) | Aspiring AI Engineer  <br>💻 Focused on Backend Development, DSA & Problem Solving  <br><br>I’m focused on building strong fundamentals and real-world skills instead of just consuming content. I spend most of my time solving problems, improving logic, and understanding how systems actually work.<br><br>🚀 What I’m Doing<br>- Practicing Data Structures & Algorithms daily  <br>- Learning Backend Development (Django + REST APIs)  <br>- Exploring AI/ML concepts step by step  <br><br> 🧠 Skills<br>- Python, C++, Java (basics)  <br>- Django, REST APIs  <br>- Git & GitHub  <br>- Problem Solving  <br><br>🎯 Goal<br>
- <br>To become a skilled software/AI engineer capable of solving real-world problems and building scalable systems.
- ⚡Approach<br>Consistency > Motivation  <br>Execution > Ideas  <br><br>📫 Reach me: sujitapatel787@gmail.com
+ CSE Student (6th Sem) | Backend & DSA Focus  
+Building strong fundamentals in Python, Django, and problem solving.  
+Aspiring AI Engineer.
+Reach me: sujitapatel787@gmail.com
 
 
 ## 🌐 Socials:
